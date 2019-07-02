@@ -6,3 +6,4 @@ Cree un archivo readme y lo voy a subir al repo.
 2. Modifico este archivo, y voy a subir los cambios.
 
 ----
+Nuevo cambio... Para usar -a y -m juntos (agregar y committear en una sola linea)
