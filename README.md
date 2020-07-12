@@ -1,9 +1,9 @@
-# Learning Git
+# Learning Git for Test Automation
 En este repositorio voy a documentar mi aprendizaje de Git, basado en el curso [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/) de Test Automation University. 
 
 ## Contenido del curso
-1. [What is Version Control?](/1.Introduction/notes.md)
-2. An Introduction to Git
+1. [What is Version Control?](/1.Introduction/vcs.md)
+2. [An Introduction to Git](/2.gitIntroduction/git.md)
 3. Starting With Git
     *   3.1 Basic Git Concepts
     *   3.2 Cloning, Fetching, Merging and Pulling
